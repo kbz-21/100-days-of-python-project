@@ -4,13 +4,13 @@
 
 import random
 
-from hangman_words import word_list
-from hangman_art import stages, logo
+# from hangman_words import word_list
+# from hangman_art import stages, logo
 
 
 lives = 6
-print(logo)
-word = random.choice(hangman_words.word_list)
+# print(logo)
+# word = random.choice(hangman_words.word_list)
 print(word)
 
 len_of_word = len(word)
