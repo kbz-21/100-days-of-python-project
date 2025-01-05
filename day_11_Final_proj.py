@@ -27,3 +27,7 @@ def calculate_score(cards):
         cards.remove(11)
         cards.append(1)
 
+
+
+        
+
